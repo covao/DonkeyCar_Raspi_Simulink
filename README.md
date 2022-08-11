@@ -1,6 +1,6 @@
 # Implementation of DonkeyCar's deep learning model on RaspberryPi using MATLAB/Simulink
 
-## MATLAB command to download and open the demo (MATLAB live script)
+## MATLAB command to download and open the demo 
 ```
 mkdir('./donkeycar_raspi');
 cd('./donkeycar_raspi');
