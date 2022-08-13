@@ -15,5 +15,5 @@ open('donkeycar_raspi.mdl');
 
 ```
 
-![donkeycar_replay_model](img/donkeycar_raspi_simulink.gif)  
+
 
